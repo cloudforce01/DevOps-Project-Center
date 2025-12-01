@@ -116,4 +116,4 @@ Think of the kernel as the **engine of a car** 🚗—the essential piece that p
 
 **Q8:Are OS and distros the same?**
 
-Yes, in the context of Linux, **distros** and **operating systems (OS)** are considered the same. A **distro** is a complete OS built around the Linux kernel, including necessary software and tools. Thus, every Linux distro functions as an operating system.a
+Yes, in the context of Linux, **distros** and **operating systems (OS)** are considered the same. A **distro** is a complete OS built around the Linux kernel, including necessary software and tools. Thus, every Linux distro functions as an operating system.
