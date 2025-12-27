@@ -65,12 +65,12 @@
 
 For the next hands‑on projects we’ll stop the instance (instead of terminating it) so the same environment can be resumed later—sanitized screenshot is given below.
 
-| #                                          | Description                                                                                                                        | Screenshot                                                                      |
-| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **1 – Show “Stop Instance” action**        | The user clicks the **Stop Instance** button (or menu item) in the cloud console. This initiates the shutdown workflow.            | ![Stop Instance Screenshot](../Assets/Day-2-Images/9990.png)                    |
-| **2 – Confirm stop in dialog**             | A confirmation dialog appears. The user clicks on **Stop**  to confirm that the instance should be stopped rather than terminated. | ![Confirm Stop in Dialog Screenshot](../Assets/Day-2-Images/9991.png)           |
-| **3 – Instance entering “Stopping” state** | After confirming, the UI shows a status indicator reading **Stopping…** while the platform gracefully shuts down the VM.           | ![Instance Entering Stopping State Screenshot](../Assets/Day-2-Images/9992.png) |
-| **4 – Instance now “Stopped”**             | Once the shutdown completes, the status changes to **Stopped**, indicating the environment can be resumed later.                   | ![Instance Stopped State Screenshot](../Assets/Day-2-Images/9993.png)           |
+| #                                          | Screenshot                                                                                                                                                                                                                                                                    |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 – Show “Stop Instance” action**        | **Stop Instance Screenshot:**<br/><br/>The user clicks the **Stop Instance** button (or menu item) in the cloud console. This initiates the shutdown workflow.<br/><br/>![Stop Instance Screenshot](../Assets/Day-2-Images/9990.png)                                          |
+| **2 – Confirm stop in dialog**             | **Stop in dialog Screenshot**<br/><br/>A confirmation dialog appears. The user clicks on **Stop**  to confirm that the instance should be stopped rather than terminated.<br/><br/>![Confirm Stop in Dialog Screenshot](../Assets/Day-2-Images/9991.png)                      |
+| **3 – Instance entering “Stopping” state** | **Instance entering “Stopping” state Screenshot:**<br/><br/>After confirming, the UI shows a status indicator reading **Stopping…** while the platform gracefully shuts down the VM.<br/><br/>![Instance Entering Stopping State Screenshot](../Assets/Day-2-Images/9992.png) |
+| **4 – Instance now “Stopped”**             | **Instance “Stopped” Screenshot:**<br/><br/>Once the shutdown completes, the status changes to **Stopped**, indicating the environment can be resumed later.<br/><br/>![Instance Stopped State Screenshot](../Assets/Day-2-Images/9993.png)                                   |
 
 -------------
 
