@@ -1,3 +1,9 @@
+### Metadata Information
+
+| **Title**                                | **Description**                                                                                                                      | **Est. Read Time** | **Keywords**                                             | **Author** | **Date**   | **Categories** | **Tags**                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------------------------------------------- | ---------- | ---------- | -------------- | ---------------------------------- |
+| DevOps-01 - Part-01 – Linux Fundamentals | An overview of Linux fundamentals covering client vs. server OS, the Linux kernel, popular distributions, and virtualization basics. | 10 - 15 minutes    | Linux, Fundamentals, DevOps, Virtualization, Open Source | BU         | 2025-12-27 | Linux, DevOps  | Linux, Virtualization, Open Source |
+
 # Devops-01 - Part-01 – Linux Fundamentals
 
 ## 1️⃣ Client vs. Server Operating Systems
@@ -89,31 +95,15 @@ Think of the kernel as the **engine of a car** 🚗—the essential piece that p
 
 ## ❓ Question & Answer Section
 
-**Q1: Is Linux an operating system?**  
+| #      | Question                                                             | Answer                                                                                                                                                                                                                                                                                                                |
+| ------ | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Q1** | *Is Linux an operating system?*                                      | Not by itself. Linux is the **kernel**—the core part of an OS. When you combine the kernel with utilities, libraries, and a graphical interface, you get a full Linux **distribution**, which functions as a complete operating system.                                                                               |
+| **Q2** | *Why do we call Ubuntu a “Linux OS” if it’s built on top of Debian?* | Ubuntu takes the Linux kernel and the Debian user‑space packages, then adds its own customizations, branding, and support. The resulting bundle is a distinct distribution, so it’s accurate to refer to Ubuntu as a Linux OS (or distro).                                                                            |
+| **Q3** | *What’s the difference between a hypervisor and a virtual machine?*  | A **hypervisor** is software (or firmware) that creates and manages **virtual machines (VMs)**. The hypervisor sits on the physical hardware and allocates resources to each VM, which runs its own guest OS as if it were a separate computer.                                                                       |
+| **Q4** | *Can I run a server‑grade Linux distro on my laptop?*                | Absolutely! Many people install Ubuntu Server, CentOS Stream, or Debian on a laptop for learning, development, or testing purposes. Using a hypervisor lets you keep your regular desktop OS intact while experimenting with server environments.                                                                     |
+| **Q5** | *How does cloud computing differ from traditional virtualization?*   | Traditional virtualization runs VMs on hardware you own and manage. Cloud computing provides the same virtualized resources **remotely**, hosted by providers like AWS, Azure, or Google Cloud. You pay for what you use and can spin resources up or down instantly, without buying or maintaining physical servers. |
+| **Q6** | *Where can I view or contribute to the Linux kernel source code?*    | The official repositories are on GitHub ([Linux Kernel Source](https://github.com/torvalds/linux)) 🌍 and Kernel.org ([Kernel.org](https://www.kernel.org/)) 🌍. Anyone can clone the code, submit patches, or review changes after creating an account.                                                              |
+| **Q7** | *What’s the practical advantage of open‑source software?*            | Open‑source projects allow anyone to inspect, modify, and redistribute the code. This transparency leads to faster security fixes, broader innovation, and the ability to tailor software to specific needs without vendor lock‑in.                                                                                   |
+| **Q8** | *Are OS and distros the same?*                                       | Yes, in the context of Linux, **distros** and **operating systems (OS)** are considered the same. A **distro** is a complete OS built around the Linux kernel, including necessary software and tools. Thus, every Linux distro functions as an operating system.                                                     |
 
-**A:** Not by itself. Linux is the kernel—the core part of an OS. When you combine the kernel with utilities, libraries, and a graphical interface, you get a full Linux **distribution**, which functions as a complete operating system.
-
-**Q2: Why do we call Ubuntu a “Linux OS” if it’s built on top of Debian?** 
-**A:** Ubuntu takes the Linux kernel and the Debian user-space packages, then adds its own customizations, branding, and support. The resulting bundle is a distinct distribution, so it’s accurate to refer to Ubuntu as a Linux OS (or distro).
-
-**Q3: What’s the difference between a hypervisor and a virtual machine?** 
-**A:** A **hypervisor** is software (or firmware) that creates and manages **virtual machines (VMs)**. The hypervisor sits on the physical hardware and allocates resources to each VM, which runs its own guest OS as if it were a separate computer.
-
-**Q4: Can I run a server-grade Linux distro on my laptop?**  
-
-**A:** Absolutely! Many people install Ubuntu Server, CentOS Stream, or Debian on a laptop for learning, development, or testing purposes. Using a hypervisor lets you keep your regular desktop OS intact while experimenting with server environments.
-
-**Q5: How does cloud computing differ from traditional virtualization?** 
-**A:** Traditional virtualization runs VMs on hardware you own and manage. Cloud computing provides the same virtualized resources **remotely**, hosted by providers like AWS, Azure, or Google Cloud. You pay for what you use and can spin resources up or down instantly, without buying or maintaining physical servers.
-
-**Q6: Where can I view or contribute to the Linux kernel source code?** 
-
-**A:** The official repositories are on GitHub ([Linux Kernel Source](https://github.com/torvalds/linux)) 🌍 and Kernel.org ([Kernel.org](https://www.kernel.org/)) 🌍. Anyone can clone the code, submit patches, or review changes after creating an account.
-
-**Q7: What’s the practical advantage of open-source software?** 
-
-**A:** Open-source projects allow anyone to inspect, modify, and redistribute the code. This transparency leads to faster security fixes, broader innovation, and the ability to tailor software to specific needs without vendor lock-in.
-
-**Q8:Are OS and distros the same?**
-
-Yes, in the context of Linux, **distros** and **operating systems (OS)** are considered the same. A **distro** is a complete OS built around the Linux kernel, including necessary software and tools. Thus, every Linux distro functions as an operating system.
+----------------------
