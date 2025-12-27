@@ -1,4 +1,16 @@
-📄 Summary
+## Metadata Information
+
+| **Title**                        | **Description**                                                                                                                                       | **Est. Read Time** | **Est. Lab Time** | **Est. Total Time** | **Keywords**               | **Author** | **Date**   | **Categories**                    | **Tags**                                        |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------- | ------------------- | -------------------------- | ---------- | ---------- | --------------------------------- | ----------------------------------------------- |
+| Launching an Ubuntu EC2 Instance | A comprehensive guide on launching an Ubuntu EC2 instance, connecting to it from your local machine, and troubleshooting common errors along the way. | 10 - 15 min        | 7 - 15 min        | 17 - 30 min         | EC2, Ubuntu, AWS, SSH, WSL | BU         | 2025-12-27 | Cloud Computing, AWS, DevOps, WSL | EC2, AWS, Ubuntu, practical, DevOps, WSL, Linux |
+
+---
+
+**← Back to the theory [← Concept → DevOps-02-EC2-Concept.md](../Concepts/Devops-02-EC2-Concept.md)**
+
+----------------------------------------------
+
+### 📄 Summary
 
 | #                                               | Topic                                 | Core Take‑aways                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ----------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -53,19 +65,18 @@
 
 For the next hands‑on projects we’ll stop the instance (instead of terminating it) so the same environment can be resumed later—sanitized screenshot is given below.
 
-![Stopping the Instance Part-1 Screenshot](../Assets/Day-2-Images/9990.png) 
-
-![Stopping the Instance Part-2 Screenshot](../Assets/Day-2-Images/9991.png)
-
-![Stopping the Instance Part-3 Screenshot](../Assets/Day-2-Images/9992.png)
-
-![Stopping the Instance Part-4 Screenshot](../Assets/Day-2-Images/9993.png)
+| L                                          | Description                                                                                                                                  | Screenshot                                                                      |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **1 – Show “Stop Instance” action**        | The user clicks the **Stop Instance** button (or menu item) in the cloud console. This initiates the shutdown workflow.                      | ![Stop Instance Screenshot](../Assets/Day-2-Images/9990.png)                    |
+| **2 – Confirm stop in dialog**             | A confirmation dialog appears. The user selects **Stop** (or **Yes**) to confirm that the instance should be stopped rather than terminated. | ![Confirm Stop in Dialog Screenshot](../Assets/Day-2-Images/9991.png)           |
+| **3 – Instance entering “Stopping” state** | After confirming, the UI shows a status indicator reading **Stopping…** while the platform gracefully shuts down the VM.                     | ![Instance Entering Stopping State Screenshot](../Assets/Day-2-Images/9992.png) |
+| **4 – Instance now “Stopped”**             | Once the shutdown completes, the status changes to **Stopped**, indicating the environment can be resumed later.                             | ![Instance Stopped State Screenshot](../Assets/Day-2-Images/9993.png)           |
 
 -------------
 
 ### 5️⃣ **EC2 Ubuntu Launch & SSH: Top Errors & Fixes**
 
-| #                                       | Symptom (what you’ll see)                                 | Why it happens                                                                                                                                                | One‑line fix                                                                                                                                                      |
+| #                                       | Symptom (what you’ll see)                                 | Why it happens                                                                                                                                                | Fix                                                                                                                                                               |
 | --------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1️⃣ “Permission denied (publickey)”** | SSH aborts immediately after you run `ssh -i … ubuntu@…`. | The key you’re using doesn’t match the key pair attached to the instance, the key file’s permissions are too lax, **or** you’re logging in as the wrong user. | • Verify you’re using the exact `.pem` that belongs to the instance. • Run `chmod 400 ~/your‑key.pem`. • Use the correct default user (`ubuntu` for Ubuntu AMIs). |
 | **2️⃣ “Connection timed out”**          | The SSH command hangs and eventually times out.           | The instance’s **security group** does not allow inbound TCP 22 from your public IP, or the instance has no public IPv4 address.                              | • In the EC2 console, edit the instance’s security group → Inbound → Add **SSH                                                                                    |
