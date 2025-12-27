@@ -1,3 +1,17 @@
+ Metadata Information
+
+| **Title**                                     | **Description**                                                            | Est. Read Time | **Keywords**                          | **Author** | **Date**   | **Categories**       | **Tags**                   |
+| --------------------------------------------- | -------------------------------------------------------------------------- | -------------- | ------------------------------------- | ---------- | ---------- | -------------------- | -------------------------- |
+| Cloud Computing Overview and AWS EC2 Concepts | An overview of cloud computing providers, core AWS EC2 concepts, and FAQs. | 7  - 10 min    | Cloud Computing, AWS, EC2, GCP, Azure | BU         | 2025-12-27 | Cloud Computing, AWS | cloud, EC2, infrastructure |
+
+--------------
+
+👉 Ready for the hands‑on part? The theory is covered below. When you’re comfortable with the concepts, jump straight to the practical lab:
+
+[▶️ **Run the Lab** → DevOps-02-Lab-01-Spin-Up-An-EC2-Instance.md](../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md)
+
+----------------
+
 ### 📄 Summary
 
 | #                                | Topic                                                     | Core Take‑aways                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
