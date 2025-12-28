@@ -1,8 +1,10 @@
+## Linux Fundamentals
+
 ### Metadata Information
 
-| **Title**                                | **Description**                                                                                                                      | **Est. Read Time** | **Keywords**                                             | **Author** | **Date**   | **Categories** | **Tags**                           |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------------------------------------------- | ---------- | ---------- | -------------- | ---------------------------------- |
-| DevOps-01 - Part-01 – Linux Fundamentals | An overview of Linux fundamentals covering client vs. server OS, the Linux kernel, popular distributions, and virtualization basics. | 10 - 15 minutes    | Linux, Fundamentals, DevOps, Virtualization, Open Source | BU         | 2025-12-27 | Linux, DevOps  | Linux, Virtualization, Open Source |
+| **Description**                                                                                                                      | **Est. Read Time** | **Keywords**                                             | **Author** | **Date**   | **Categories** | **Tags**                           |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------------------------------------------- | ---------- | ---------- | -------------- | ---------------------------------- |
+| An overview of Linux fundamentals covering client vs. server OS, the Linux kernel, popular distributions, and virtualization basics. | 10 - 15 minutes    | Linux, Fundamentals, DevOps, Virtualization, Open Source | BU         | 2025-12-27 | Linux, DevOps  | Linux, Virtualization, Open Source |
 
 # Devops-01 - Part-01 – Linux Fundamentals
 
