@@ -4,11 +4,17 @@
 
 | **Description**                                                            | Est. Read Time | **Keywords**                          | **Author** | **Date**   | **Categories**       | **Tags**                   |
 | -------------------------------------------------------------------------- | -------------- | ------------------------------------- | ---------- | ---------- | -------------------- | -------------------------- |
-<<<<<<< HEAD
+| <<<<<<< HEAD                                                               |                |                                       |            |            |                      |                            |
+| <<<<<<< HEAD                                                               |                |                                       |            |            |                      |                            |
 | An overview of cloud computing providers, core AWS EC2 concepts, and FAQs. | 7 - 10 min     | Cloud Computing, AWS, EC2, GCP, Azure | BU         | 2025-12-27 | Cloud Computing, AWS | cloud, EC2, infrastructure |
-=======
+| =======                                                                    |                |                                       |            |            |                      |                            |
 | An overview of cloud computing providers, core AWS EC2 concepts, and FAQs. | 7  - 10 min    | Cloud Computing, AWS, EC2, GCP, Azure | BU         | 2025-12-27 | Cloud Computing, AWS | cloud, EC2, infrastructure |
->>>>>>> origin
+
+> > > > > > > origin
+> > > > > > > =======
+> > > > > > > 
+> > > > > > > | An overview of cloud computing providers, core AWS EC2 concepts, and FAQs. | 7  - 10 min    | Cloud Computing, AWS, EC2, GCP, Azure | BU         | 2025-12-27 | Cloud Computing, AWS | cloud, EC2, infrastructure |
+> > > > > > > origin
 
 --------------
 
