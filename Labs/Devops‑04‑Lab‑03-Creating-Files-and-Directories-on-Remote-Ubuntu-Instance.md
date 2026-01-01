@@ -113,24 +113,32 @@ ls # list files in home history
 
 1. **Show current directory**
    
+   bash
+   
    ```bash
    pwd
    ```
 
 2. **List current items**
    
+   bash
+   
    ```bash
    ls
    ```
 
-3. **Create directory `bond007`**
+3. **Create directory `dev`**
+   
+   bash
    
    ```bash
-   mkdir devops 
+   mkdir dev
    ls
    ```
 
 4. **Create a file with initial content using `vim`**
+   
+   bash
    
    ```bash
    vim file1.txt
@@ -140,6 +148,8 @@ ls # list files in home history
 
 5. **Append a new line “Happy Learning”**
    
+   bash
+   
    ```bash
    vim file1.txt
    ```
@@ -147,6 +157,8 @@ ls # list files in home history
    - Inside `vim`: press `Esc`, then `o`, type `Happy Learning`, press `Esc`, then `:wq` and **Enter**.
 
 6. **Create a nested directory inside `devops`**
+   
+   bash
    
    ```bash
    # ------------------------------------------------------------
@@ -205,6 +217,8 @@ ls # list files in home history
 
 7. **Create an additional empty file**
    
+   bash
+   
    ```
    touch file2.txt 
    ls -l file2.txt
@@ -215,6 +229,8 @@ ls # list files in home history
 ### 5️⃣ Clean‑Up – Stop the Instance
 
 **Option A – From inside SSH**
+
+bash
 
 ```basg
 sudo poweroff # immediate halt 
