@@ -10,11 +10,9 @@
 
 👉 Ready for the hands‑on part? The theory is covered above. When you’re comfortable with the concepts, jump straight to the practical lab:
 
-[▶️ **Run the Lab** →  Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance](../Labs/Devops‑04‑Lab‑03- Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md)
+[▶️ **Run the Lab** →  Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance](../Labs/Devops‑04‑Lab‑03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md)
 
 -----------
-
-
 
 ## 📖 Summary
 
@@ -109,6 +107,6 @@ After reloading the shell (`source ~/.bashrc`), `history` will display timesta
 
 👉 Ready for the hands‑on part? The theory is covered above. When you’re comfortable with the concepts, jump straight to the practical lab:
 
-[▶️ **Run the Lab** →  Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance](../Labs/Devops‑04‑Lab‑03- Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md)
+[▶️ **Run the Lab** →  Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance](../Labs/Devops‑04‑Lab‑03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md)
 
 -----
