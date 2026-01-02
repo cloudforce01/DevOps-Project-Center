@@ -10,7 +10,9 @@
 
 ### 🔗 Concept linked to this lab
 
-▶️ **Read the Concept →** <a href="../Concepts/Devops-05-Concept-05-Arguments-and-Options-of-Linux-Commands.md#metadata-information" target="_blank" rel="noreferrer noopener"> Devops‑05‑Concept‑05‑Arguments‑and‑Options‑of‑Commands - jump to "📊 Metadata Information </a>
+▶️ **Read the Concept →** 
+
+<a href="../Concepts/Devops-05-Concept-05-Arguments-and-Options-of-Linux-Commands.md#metadata-information" target="_blank" rel="noreferrer noopener"> Devops‑05‑Concept‑05‑Arguments‑and‑Options‑of‑Commands - jump to "📊 Metadata Information </a>
 
 ---
 
