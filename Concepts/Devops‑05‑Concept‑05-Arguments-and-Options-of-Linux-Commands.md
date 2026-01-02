@@ -12,7 +12,7 @@
 
 ### 🔗 Lab linked to this concept
 
-▶️ **Run the Lab →** [Devops‑05‑Lab‑04‑Arguments‑and‑Options‑of‑Commands - Jump to "Metadata Information"](../Labs/Devops‑05‑Lab‑04–Exploring-Commands-Arguments-and-Options.md#metadata-information)
+▶️ **Run the Lab →** <a href="../Labs/Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options.md#metadata-information" target="_blank" rel="noreferrer noopener"> Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options - jump to "📊 Metadata Information </a>
 
 ------
 
@@ -125,6 +125,6 @@ echo $PATH # typical output:
 
 ### 🔗 Lab linked to this concept
 
-▶️ **Run the Lab →** [Devops‑05‑Lab‑04‑Arguments‑and‑Options‑of‑Commands](../Labs/Devops‑05‑Lab‑04–Exploring-Commands-Arguments-and-Options.md#metadata-information)
+▶️ **Run the Lab →** <a href="../Labs/Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options.md#metadata-information" target="_blank" rel="noreferrer noopener"> Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options - jump to "📊 Metadata Information </a>
 
 -------------------
