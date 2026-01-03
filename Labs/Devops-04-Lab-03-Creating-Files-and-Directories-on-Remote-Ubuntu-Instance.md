@@ -8,7 +8,7 @@ Metadata (single‑row table)
 
 ---
 
-**← Back to the theory [← Concept → Devops-04-Concept-04-Creating-Files-and-Directories-in-Linux](../Concepts/Devops‑04-Concept- 04-Creating-Files-and-Directories-in-Linux.md)**
+**← Back to the theory <a href="../Concepts/Devops-04-Concept- 04-Creating-Files-and-Directories-in-Linux.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ← Concept → Devops-04-Concept- 04-Creating-Files-and-Directories-in-Linux - jump to "📊 Metadata Information </a>**
 
 ---
 
@@ -48,7 +48,9 @@ You will:
 > 
 > The EC2 instance must already exist and you must have the private key (`*.pem`) stored locally.
 > 
-> If the EC2 instance does not yet exist, create it first using the following link: **[Create EC2 instance – Lab Setup Guide](../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md)**
+> If the EC2 instance does not yet exist, create it first using the following link: **
+> 
+> **<a href="../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md#step‑by‑step-launching-an-ubuntu-ec2-instance" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Create EC2 Instance - Lab Setup Guide</a>**
 
 -----
 
@@ -259,6 +261,6 @@ The SSH session will close and the instance will appear **stopped** in the con
 
 ---
 
-**← Back to the theory [← Concept → Devops-04-Concept-04-Creating-Files-and-Directories-in-Linux](../Concepts/Devops‑04-Concept- 04-Creating-Files-and-Directories-in-Linux.md)**
+**← Back to the theory <a href="../Concepts/Devops-04-Concept- 04-Creating-Files-and-Directories-in-Linux.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ← Concept → Devops-04-Concept- 04-Creating-Files-and-Directories-in-Linux - jump to "📊 Metadata Information </a>**
 
 ---

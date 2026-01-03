@@ -35,7 +35,9 @@ This lab reinforces the theoretical concepts by having you work on a live Ubuntu
 
 **If you haven’t created an EC2 instance yet—or if the instance you had was terminated—follow these steps to launch a new one:**
 
-1️⃣ **Launch & Connect** – Rather than repeating the initial setup, refer to the previous lab for the start‑up instructions: **<a href="../Labs/Devops‑04‑Lab‑03- Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md#start-the-ec2-instance" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Devops‑04‑Lab‑03 – Starting & Connecting to the Remote Ubuntu Instance – Jump to 1️⃣ Start the EC2 Instance</a>**. After establishing an active SSH session, proceed with the remaining steps.
+1️⃣ **Launch & Connect** – Rather than repeating the initial setup, refer to the previous lab for the start‑up instructions: **<a href="../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md#step‑by‑step-launching-an-ubuntu-ec2-instance" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab">Create EC2 Instance - Lab Setup Guide</a>**.
+
+After establishing an active SSH session, proceed with the remaining steps.
 
 *If you already have an Ubuntu instance available, simply start it and continue with the instructions below.*
 

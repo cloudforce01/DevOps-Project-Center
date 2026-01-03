@@ -10,7 +10,7 @@
 
 👉 Ready for the hands‑on part? The theory is covered above. When you’re comfortable with the concepts, jump straight to the practical lab:
 
-[▶️ **Run the Lab** →  Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance](../Labs/Devops‑04‑Lab‑03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md)
+<a href="../Labs/Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab">▶️ **Run the Lab** → Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance - jump to "📊 Metadata Information </a>
 
 -----------
 
@@ -107,6 +107,6 @@ After reloading the shell (`source ~/.bashrc`), `history` will display timesta
 
 👉 Ready for the hands‑on part? The theory is covered above. When you’re comfortable with the concepts, jump straight to the practical lab:
 
-[▶️ **Run the Lab** →  Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance](../Labs/Devops‑04‑Lab‑03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md)
+<a href="../Labs/Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab">▶️ **Run the Lab** → Devops-04-Lab-03-Creating-Files-and-Directories-on-Remote-Ubuntu-Instance - jump to "📊 Metadata Information </a>
 
 -----
