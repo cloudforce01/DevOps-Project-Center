@@ -8,11 +8,9 @@
 
 --------------
 
-
-
 👉 Ready for the hands‑on part? The theory is covered below. When you’re comfortable with the concepts, jump straight to the practical lab:
 
-[▶️ **Run the Lab** → DevOps-02-Lab-01-Spin-Up-An-EC2-Instance.md](../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md)
+<a href="../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ▶️ **Run the Lab** → Devops-02-Lab-01-Spin-Up-An-EC2-Instance - jump to "📊 Metadata Information </a>
 
 ----------------
 
@@ -62,6 +60,6 @@ These platforms deliver on‑demand compute, storage, networking, and a suite of
 
 👉 Ready for the hands‑on part? The theory is covered above. When you’re comfortable with the concepts, jump straight to the practical lab: 
 
-[▶️ **Run the Lab** → DevOps-02-Lab-01-Spin-Up-An-EC2-Instance.md](../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md)
+<a href="../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md#metadata-information" target="_blank" rel="noreferrer noopener"  title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ▶️ **Run the Lab** → Devops-02-Lab-01-Spin-Up-An-EC2-Instance - jump to "📊 Metadata Information </a>
 
 ----------
