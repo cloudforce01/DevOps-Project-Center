@@ -9,7 +9,8 @@
 ---
 
 👉 **Ready for the hands‑on portion?** The theory is covered below. When you feel comfortable, jump straight to the practical lab: 
-▶️ **Run the Lab** →  [ DevOps-03-Lab-02-Absolute-and-Relative-Paths](../Labs/DevOps‑03‑Lab‑02-Absolute-and-Relative-Paths.md)
+
+<a href="../Labs/DevOps-03-Lab-02-Absolute-and-Relative-Paths.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab">▶️ **Run the Lab** → DevOps-03-Lab-02-Absolute-and-Relative-Paths - jump to "📊 Metadata Information </a>
 
 ---
 
@@ -94,6 +95,6 @@
 
 The theory is covered above. When you’re comfortable, move on to the practical lab:
 
-▶️ **Run the Lab** →  [DevOps-03-Lab-02-Absolute-and-Relative-Paths](../Labs/DevOps‑03‑Lab‑02-Absolute-and-Relative-Paths.md)
+<a href="../Labs/DevOps-03-Lab-02-Absolute-and-Relative-Paths.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab">▶️ **Run the Lab** → DevOps-03-Lab-02-Absolute-and-Relative-Paths - jump to "📊 Metadata Information </a>
 
 ---

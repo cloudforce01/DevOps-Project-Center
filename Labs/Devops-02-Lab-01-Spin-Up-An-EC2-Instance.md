@@ -8,7 +8,7 @@
 
 ---
 
-**← Back to the theory [← Concept → DevOps-02-EC2-Concept.md](../Concepts/Devops-02-EC2-Concept.md)**
+**← Back to the theory <a href="../Concepts/Devops-02-EC2-Concept.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ← Concept → Devops-02-EC2-Concept - jump to "📊 Metadata Information </a>**
 
 ----------------------------------------------
 
@@ -103,8 +103,8 @@ These three points cover the most common roadblocks and give you a fast path to 
 | **Q4** | *What is the difference between the `ubuntu` user and the `root` user on an Ubuntu AMI?* | `ubuntu` is a regular, non‑privileged account (prompt `~$`). `root` is the system‑administrator account with unrestricted privileges (prompt `#`). `ubuntu` can become root via `sudo`.         |
 | **Q5** | *How does WSL make it easier to SSH from a Windows machine?*                             | WSL provides a native Linux environment with the standard `ssh` client, eliminating the need for a separate Windows SSH client and letting you use the same commands you’d run on a Linux host. |
 
---- ---------
+------------
 
-**← Back to the theory [← Concept → DevOps-02-EC2-Concept.md](../Concepts/Devops-02-EC2-Concept.md)**
+**← Back to the theory <a href="../Concepts/Devops-02-EC2-Concept.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ← Concept → Devops-02-EC2-Concept - jump to "📊 Metadata Information </a>**
 
 ------------------------------

@@ -8,7 +8,7 @@
 
 ----
 
-**← Back to the theory [← Concept → DevOps-03-Concept-03-Linux-Absolute-and-Relative-Paths](../Concepts/Devops-03-Concept-03-Linux-Absolute-and-Relative-Paths.md)**
+**← Back to the theory <a href="../Concepts/Devops-03-Concept-03-Linux-Absolute-and-Relative-Paths.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ← Concept → Devops-03-Concept-03-Linux-Absolute-and-Relative-Paths - jump to "📊 Metadata Information </a>**
 
 ---
 
@@ -44,7 +44,7 @@ You will:
 
 > **Prerequisite:**
 > 
-> 1. If the EC2 instance does not yet exist, create it first using the following link: **[Create EC2 instance – Lab Setup Guide](../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md)**
+> 1. If the EC2 instance does not yet exist, create it first using the following link: **<a href="../Labs/Devops-02-Lab-01-Spin-Up-An-EC2-Instance.md#step‑by‑step-launching-an-ubuntu-ec2-instance" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Create EC2 Instance - Lab Setup Guide</a>**
 > 2. The private key must be stored locally. Remember to keep it secure (`chmod 400 <YOUR_KEY_NAME.pem>`).
 
 ---
@@ -211,6 +211,6 @@ Feel free to use whichever shutdown method best fits your workflow.
 
 -----------
 
-**← Back to the theory [← Concept → DevOps-03-Concept-03-Linux-Absolute-and-Relative-Paths](../Concepts/Devops-03-Concept-03-Linux-Absolute-and-Relative-Paths.md)**
+**← Back to the theory <a href="../Concepts/Devops-03-Concept-03-Linux-Absolute-and-Relative-Paths.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> ← Concept → Devops-03-Concept-03-Linux-Absolute-and-Relative-Paths - jump to "📊 Metadata Information </a>**
 
 ---
