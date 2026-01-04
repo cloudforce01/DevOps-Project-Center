@@ -12,7 +12,7 @@
 
 ### 🔗 Lab linked to this concept
 
-▶️ **Run the Lab →** <a href="../Labs/Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options - jump to "📊 Metadata Information </a>
+<a href="../Labs/Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> **▶️ Run the Lab → Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options - jump to 📊 Metadata Information** </a>
 
 ------
 
@@ -125,6 +125,6 @@ echo $PATH # typical output:
 
 ### 🔗 Lab linked to this concept
 
-▶️ **Run the Lab →** <a href="../Labs/Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options - jump to "📊 Metadata Information </a>
+ <a href="../Labs/Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> **▶️ Run the Lab → Devops-05-Lab-04-Exploring-Commands-Arguments-and-Options - jump to "📊 Metadata Information** </a>
 
 -------------------
