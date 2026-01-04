@@ -6,11 +6,11 @@
 
 | 📖 Description                                                                                                                  | ⏱️ Est. Read Time | ⏱️Est. Lab Time | ⏱️Total Time | 🏷️ Keywords                                               | ✍️ Author | 📅 Date    | 📂 Categories                                        | 🏷️ Tags                                    |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------- | ------------ | ---------------------------------------------------------- | --------- | ---------- | ---------------------------------------------------- | ------------------------------------------- |
-| Hands‑on lab to locate commands, inspect options, and use arguments to manage files/directories on a remote Ubuntu EC2 instance | 10‑15 min         | 10 - 15 min     | 20 - 30 min  | linux, cli, aws, ec2, wsl, powershell, ssh, mkdir, history | B.U.      | 2026‑01‑02 | Cloud Computing, Linux Basics, Arguments and Options | linux‑fundamentals, cli‑options, aws‑ubuntu |
+| Hands‑on lab to locate commands, inspect options, and use arguments to manage files/directories on a remote Ubuntu EC2 instance | 10‑15 min         | 10 - 15 min     | 20 - 30 min  | linux, cli, aws, ec2, wsl, powershell, ssh, mkdir, history | B.U.      | 2026‑01‑04 | Cloud Computing, Linux Basics, Arguments and Options | linux‑fundamentals, cli‑options, aws‑ubuntu |
 
 ### 🔗 Concept linked to this lab
 
-▶️ **Read the Concept →** <a href="../Concepts/Devops-05-Concept-05-Arguments-and-Options-of-Linux-Commands.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Devops‑05‑Concept‑05‑Arguments‑and‑Options‑of‑Commands - jump to "📊 Metadata Information </a>
+← Back to the theory <a href="../Concepts/Devops-05-Concept-05-Arguments-and-Options-of-Linux-Commands.md" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab">←Devops‑05‑Concept‑05‑Arguments‑and‑Options‑of‑Commands - jump to 📊 Metadata Information </a>
 
 ---
 
@@ -136,7 +136,9 @@ You have two choices:
 
 #### A – From Inside the SSH Session
 
-```
+bash
+
+```bash
 sudo poweroff 
 # immediate halt 
 # or 
@@ -168,4 +170,4 @@ Confirm the instance state changes to **stopped**.
 
 ### 🔙 Back to the Concept
 
-▶️ **Read the Concept →** <a href="../Concepts/Devops-05-Concept-05-Arguments-and-Options-of-Linux-Commands.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Devops‑05‑Concept‑05‑Arguments‑and‑Options‑of‑Commands - jump to "📊 Metadata Information </a>
+<a href="../Concepts/Devops-05-Concept-05-Arguments-and-Options-of-Linux-Commands.md#metadata-information" target="_blank" rel="noreferrer noopener" title="Ctrl/Cmd‑click or Middle‑click to open in a new tab"> Devops‑05‑Concept‑05‑Arguments‑and‑Options‑of‑Commands - jump to 📊 Metadata Information </a>
